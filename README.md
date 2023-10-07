@@ -8,4 +8,4 @@ Ans 3: The attacker was able to pull out the very important file from the user a
 
 Ans 4: Attacker took a screenshot of that file which name is "credentials.txt".
 
-Ans 5: The root account pass is "P@ssw0rd123456!".
+Ans 5: The root account password is " 1amgr000000t!@#$".
